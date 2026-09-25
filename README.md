@@ -23,7 +23,45 @@ Performance, reliability, and user experience should be considered from the begi
 
 `Swift` · `UIKit` · `Foundation` · `Swift Concurrency` · `Swift Package Manager` · `OSLog` · `Instruments` · `Swift Testing` · `git`
 
-I am also expanding into **SwiftUI**, **TCA** (The Composable Architecture) and broader development across **Apple platforms**.
+---
+
+# Current interests
+
+- Apple Platforms
+- SwiftUI
+- TCA
+- Technical Leadership
+- Interaction Design
+- System Design
+- Performance Engineering
+- Independent product development
+
+---
+
+# Links
+
+- [LinkedIn](https://www.linkedin.com/in/kikiwora/)
+
+---
+
+# Professional engineering activity
+
+<details>
+<summary>Selected Git-history statistics</summary>
+
+A local read-only analysis of selected professional Git histories across LiveScore, Rhythmic Rebellion, and VelociGene recorded:
+
+- **2,502 retained commits**
+- **659,841 added + 408,531 deleted tracked-text line events**
+- **1,068,372 cumulative tracked-text change events**
+- **460,209 added + 246,509 deleted Swift line events**
+- **706,718 cumulative Swift change events**
+
+The analysis excluded identified formatter-author commits, selected SwiftFormat-title commits, and selected-author merge commits.
+
+These figures describe historical change activity. They are **not** unique lines authored, code currently retained, or a productivity metric.
+
+</details>
 
 ---
 
@@ -313,40 +351,3 @@ Architecture is useful when it supports the product. I care about how live updat
 I prefer small abstractions that remove real classes of mistakes: typed identifiers, explicit commands, reusable presentation systems, logging conventions, diagnostics, and shared components. An abstraction should make the system easier to understand—not merely make it more abstract.
 
 ---
-
-# Professional engineering activity
-
-<details>
-<summary>Selected Git-history statistics</summary>
-
-A local read-only analysis of selected professional Git histories across LiveScore, Rhythmic Rebellion, and VelociGene recorded:
-
-- **2,502 retained commits**
-- **659,841 added + 408,531 deleted tracked-text line events**
-- **1,068,372 cumulative tracked-text change events**
-- **460,209 added + 246,509 deleted Swift line events**
-- **706,718 cumulative Swift change events**
-
-The analysis excluded identified formatter-author commits, selected SwiftFormat-title commits, and selected-author merge commits.
-
-These figures describe historical change activity. They are **not** unique lines authored, code currently retained, or a productivity metric.
-
-</details>
-
----
-
-# Current interests
-
-- Apple Platforms
-- Interaction Design
-- Performance Engineering
-- Technical Leadership
-- SwiftUI
-- Independent product development
-
----
-
-# Links
-
-- [LinkedIn](https://www.linkedin.com/in/kikiwora/)
-- [GitHub](https://github.com/kikiwora)
