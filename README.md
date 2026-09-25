@@ -25,22 +25,20 @@ Performance, reliability, and user experience should be considered from the begi
 
 ---
 
-# Current interests
-
-- Apple Platforms
-- SwiftUI
-- TCA
-- Technical Leadership
-- Interaction Design
-- System Design
-- Performance Engineering
-- Independent product development
-
----
-
 # Links
 
 - [LinkedIn](https://www.linkedin.com/in/kikiwora/)
+
+---
+
+# Current interests
+
+- Technical Leadership
+- System Design
+- Interaction Design
+- Performance Engineering
+- Independent product development
+- SwiftUI + TCA
 
 ---
 
