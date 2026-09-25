@@ -44,9 +44,6 @@ Performance, reliability, and user experience should be considered from the begi
 
 # Professional engineering activity
 
-<details>
-<summary>Selected Git-history statistics</summary>
-
 A local read-only analysis of selected professional Git histories across LiveScore, Rhythmic Rebellion, and VelociGene recorded:
 
 - **2,502 retained commits**
@@ -56,10 +53,7 @@ A local read-only analysis of selected professional Git histories across LiveSco
 - **706,718 cumulative Swift change events**
 
 The analysis excluded identified formatter-author commits, selected SwiftFormat-title commits, and selected-author merge commits.
-
 These figures describe historical change activity. They are **not** unique lines authored, code currently retained, or a productivity metric.
-
-</details>
 
 ---
 
