@@ -1,6 +1,6 @@
 # Roman Suvorov 
 **Senior Software Engineer** 
-**Apple Platforms · Architecture · Performance · Product Engineering**
+**Apple Platforms · Software Architecture · Performance · Product Engineering**
 `Swift` · `UIKit` · `Foundation` · `Structured Concurrency` · `Swift Package Manager` · `Logger` · `Instruments` · `Swift Testing` · `git`
 Connect at [LinkedIn](https://www.linkedin.com/in/kikiwora/)
 
