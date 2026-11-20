@@ -1,16 +1,16 @@
 # Roman Suvorov 
-**Senior Software Engineer ·  Apple Platforms**
-System Design · Product Quality · Architecture
-Building great software since 2019 · Coding since 2009
+**Senior Software Engineer ·  Apple Platforms**\
+System Design · Product Quality · Architecture\
+Making robust, maintainable, and readable software since 2019 · Working in team since 2014 · Coding since 2009
 
-`Swift` · `UIKit` · `Foundation` · `Structured Concurrency` · `Swift Package Manager` · `Logger` · `Instruments` · `Swift Testing` · `git`
-Connect at [LinkedIn](https://www.linkedin.com/in/kikiwora/)
+`Swift` · `Structured Concurrency` · `SPM` · `UIKit` · `Instruments` · `git` · `SOLID` · `CLEAN` · `Logger` · `Swift Testing` · `SwiftUI`
 
-Making robust, maintainable, and readable software since 2015
-My work is strongest where application architecture, state management, concurrency, performance, reliability, and interaction quality meet.
+My work is strongest where application architecture, state management, concurrency, performance, reliability, and interaction quality meet.\
+I am particularly interested in designing clear architectures and reusable engineering systems that make codebases easier to understand and evolve. Performance, reliability, and user experience should be considered from the beginning rather than added later.
 
-I am particularly interested in designing clear architectures and reusable engineering systems that make codebases easier to understand and evolve.
-Performance, reliability, and user experience should be considered from the beginning rather than added later.
+Connect at [LinkedIn](https://www.linkedin.com/in/kikiwora/)\
+Read at [Substack](https://substack.com/@kikiwora), [Twitter](https://x.com/kikiwora) or [BlueSky](https://bsky.app/profile/kikiwora.bsky.social)\
+Checkout my photos at [Lomography](https://www.lomography.com/homes/kikiwora) or [Instagram](https://www.instagram.com/kikiwora/)
 
 ---
 
